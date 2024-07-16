@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Apr 2024 13:15:15 at https://www.moveisgottems.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr10%e0C2%P%s%uN0%I0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.moveisgottems.com.br/ -O1 "C:\SiteGottems2\Site2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:15:16	Warning: 	Found for https://www.moveisgottems.com.br/robots.txt
+13:15:16	Warning: 	File has moved from https://www.moveisgottems.com.br/robots.txt to https://www.moveisgottems.com.br/ops/404
+13:15:32	Warning: 	Link https://www.moveisgottems.com.br/ops/404 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 16 seconds : 2619 links scanned, 2618 files written (1364751790 bytes overall) [1350107303 bytes received at 1696114 bytes/sec], 20411711 bytes transferred using HTTP compression in 504 files, ratio 23%, 27.6 requests per connection
+(No errors, 3 warnings, 0 messages)

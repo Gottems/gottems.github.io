@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.moveisgottems.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	vld19s1v8ocashia3dkfuvgg2a
+www.moveisgottems.com.br	TRUE	/	FALSE	1999999999	access	1
+
